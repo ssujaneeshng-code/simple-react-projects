@@ -1,5 +1,5 @@
 {
-  "name": "ref-topic",
+  "name": "state-topic",
   "private": true,
   "version": "0.0.0",
   "type": "module",
